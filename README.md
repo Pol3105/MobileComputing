@@ -237,3 +237,14 @@ Even though the base game is fully complete (v1.0), the scalable architecture al
 * 🔲 **Animation Improvements:** Fix minor animation bugs.
 
 ---
+
+## 👨‍💻 Development Team
+
+Work done by:
+
+Pablo Rejon Camacho
+Arturo Sanz Blázquez
+Miguel Ángel Granada Obando
+
+---
+
