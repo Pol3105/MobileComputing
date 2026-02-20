@@ -242,9 +242,11 @@ Even though the base game is fully complete (v1.0), the scalable architecture al
 
 Work done by:
 
-Pablo Rejon Camacho
-Arturo Sanz Blázquez
-Miguel Ángel Granada Obando
+Pablo Rejon Camacho,
+
+Arturo Sanz Blázquez,
+
+Miguel Ángel Granada Obando.
 
 ---
 
