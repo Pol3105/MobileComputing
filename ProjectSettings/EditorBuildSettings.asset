@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 373e171ffb147e34cbcc9342e9e87570
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: ef8902451a16f614a877175071a2c8b5
+  - enabled: 1
+    path: Assets/Scenes/Nivel_1.unity
+    guid: 782c777b7226e774bb333ed594642d23
+  - enabled: 1
+    path: Assets/Scenes/Nivel_2.unity
+    guid: aaa27db4e41b6844ba28d20bf3b8c39b
+  - enabled: 1
+    path: Assets/Scenes/Nivel_3.unity
+    guid: 92b3f15e538f6a947b00d15761bb1bb9
+  - enabled: 1
+    path: Assets/Scenes/Nivel_4.unity
+    guid: 39cf63b5346f92c4487ddb807163b6b7
+  - enabled: 1
+    path: Assets/Scenes/Nivel_5.unity
+    guid: 28a618c3e7c79d8468a76c4091757a2a
+  - enabled: 1
+    path: Assets/Scenes/TiendaDojo.unity
+    guid: 0f461286726455045bf55c3962ac3919
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 7ef0a3fd8ccacf84eb88497622a2fc59
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
